@@ -23,3 +23,5 @@ istediğinizi tartışmak için bir konu açınız.
 # License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![proje resmi](Screenshot_1.png)
